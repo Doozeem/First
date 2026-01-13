@@ -1,0 +1,17 @@
+{
+  "name": "Dooze AI",
+  "short_name": "Dooze",
+  "description": "Platform konten kreator AI all-in-one.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
